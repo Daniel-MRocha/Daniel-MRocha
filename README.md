@@ -1,12 +1,5 @@
-### Hi there 👋
-
-<!--
-**Daniel-MRocha/Daniel-MRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Daniel Machado da Rocha
+## ☕ Dev Java
+<p> Gosto do conhecimento em geral, como lógica, quebra-cabeças e desafios, por isso tento trazer isso para o desenvolvimento java, como forma de prática e aprendizado.</p>
 
 
-- 🌱 I’m currently JAVA ...
-
-
--->
