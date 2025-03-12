@@ -10,20 +10,36 @@
 
 ## <img width="32" height="32" src="https://img.icons8.com/dotty/80/tuition.png" alt="tuition"/> **Hard Skills**
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-
-<img width="48" height="48" src="https://img.icons8.com/windows/32/git.png" alt="git"/>
-
+<table>
+<tr>
+    <td>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    </td>
+    <td>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+    </td>
+    <td>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+    </td>
+    <td>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    </td>
+    <td>
+ <img width="48" height="48" src="https://img.icons8.com/windows/32/git.png" alt="git"/>
+    </td>
+</tr>
+</table>
 </br>
 
 ## **Estudos**
 
+<ul>
+<li>Formado Técnico de informática pela instituição La Salle - Canoas RS</li>
+<li>Formado Técnologo em Analise e desenvolvimento de sistemas pela instituição QI - Canoas RS</li>
+<li>Curso Java básico EAD da empresa CoffeAndIT</li>
+</ul>
+
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Daniel-MRocha&theme=cobalt&show_icons=true&hide_border=false&count_private=true)">
 </br>
