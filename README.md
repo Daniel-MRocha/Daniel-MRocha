@@ -34,8 +34,8 @@
 ## **Estudos**
 
 <ul>
-<li>Formado Técnico de informática pela instituição La Salle - Canoas RS</li>
-<li>Formado Técnologo em Analise e desenvolvimento de sistemas pela instituição QI - Canoas RS</li>
+<li>Formado Técnico de informática pela instituição La Salle - Canoas RS - 2006</li>
+<li>Formado Técnologo em Analise e desenvolvimento de sistemas pela instituição QI - Canoas RS - 2024</li>
 <li>Curso Java básico EAD da empresa CoffeAndIT</li>
 </ul>
 
